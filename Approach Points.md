@@ -6,7 +6,7 @@
 4. describe your interests and prefred locations
 5. plan / join a trip with the help of our AI model
 6. choose a comman meeting point
-7. plan lunches and food/washroom breaks in the trip
+7. schedule food and bathroom breaks
 8. start the trip
 9. support local buisnesses
 10. collect achievments and collectables by completing the trip
