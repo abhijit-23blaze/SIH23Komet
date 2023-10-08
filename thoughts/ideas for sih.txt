@@ -1,0 +1,29 @@
+ideas for sih:
+
+1) travel app that suggests college trips                   [B+]-- 
+   it will also have the no. of auto/ transportation
+   we can also join and see gorups 
+   it will also contain all info about the trips
+2) water app the crowd soureces water related problem       [C]--
+3) modified version of the water app but for all problems   [B+]--
+   this app will also show the stsus of construction project
+   for example pothole and you can also report potholes
+   and so that we can also see what project are proposed
+
+  {BASICALL A SOCIAL PLATFORM WHERE ALL THE POLITICIANS 
+  CAN TALK AND LISTEN TO THE PPL and organize and manage various events}    
+4) A social platform for rescue agencies and ngo            [C-]--
+   and police department which will also contain emerrgency 
+   drills, awareness
+Build a platform where users can crowdsource solutions to social and environmental challenges. Users can post projects related to sustainability, community development, or charitable initiatives, and others can contribute their time or resources.
+5) a export portal for dnk                                   [C-]--
+6) a sports organization app in which community grounds will be corwd managed 
+   this can also be implemented is the 2 idea app
+7) an app to calculate water footprint
+8) pro planet app                                            [D]
+9)Create a mobile app for waste collection workers.          [B]
+  The app displays optimized routes, alerts for bin fullness,
+  and allows workers to mark collections as complete.
+10)Eco-Friendly Transportation Planner:
+Create a software solution that encourages eco-friendly transportation choices by providing route recommendations for biking, walking, carpooling, or using public transit while considering environmental impact and travel time.
+

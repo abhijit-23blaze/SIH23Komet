@@ -1,0 +1,59 @@
+SIH APP FEATURES
+
+PAGES:
+
+login page
+
+TABS :
+     1)home
+     2)planning
+     3)heat map
+     4)profile
+
+ 1)home 
+     1:upcoming trips 
+     2:algorithm that will show relevent 
+       trips to the user
+     3:there will be a card for each trip
+        A:: card will contian description
+            location transprot and other 
+            imp info it will also contain a 
+            rsvp or i am interested button
+     4:some trips might have some collectable
+       nfts that can be collected by 
+       completing the trip(this has some 
+       security concern as we cannot confirm
+       if the user actually went to the trip or
+       not to be discussed)
+     5:it can show the carbon foorprint of
+       the trip 
+     6:
+ 2)planning
+     1:AI model that will plan and suggest 
+       trips
+       based on your location
+     2:the trip can be public/private
+     3:can send personalised invites for the 
+       trip
+     4:will show if there are any similar trips 
+       going to happen at the same time
+     5:
+3)heat map
+     1:inspiration snapchat maps
+     2:it will be a heat map of most visited
+       location overlayed with nearby 
+       shops/places that you can rest 
+     3:it will highlight photogenic location 
+       and by tapping on it we can view the 
+       pics of the location clicked by others
+     4:
+4)profile
+     1:unique user id
+     2:customiseable profile where we can 
+       declare our interests and passions
+     3:it will show the previos trips that they 
+       have visited and also the collectable 
+       nfts that they might have collected
+       during the trips
+     4:can follow friend and trip organisers
+     5:we will be able to show this on instagram in stories as a special feat (like spotify)

@@ -1,0 +1,17 @@
+a study suggests that most small sclale triops / gathering happen at malls/ restaurant we want to change it to treks and forts
+
+prolems in doing so
+1)safety issues
+2)weather
+3)limited transportaion options
+
+
+Increasing tourism in India and promoting event culture is a key aspect of the project, with the aim of contributing to the country's GDP and enhancing the livelihood of less-visited and uderrated locations beyond popular tourist spots.​
+
+Data collection from various places will be utilized, and machine learning algorithms will analyze this data to identify events and locations that align with users' preferences.​
+
+Users will be rewarded with badges and NFTs (Non-Fungible Tokens) for engaging in activities they enjoy, such as exploring new places and participating in events.​
+
+A marketplace will be established to enable the trading of these NFTs, offering users an opportunity to earn through activities they are passionate about, rather than being confined to traditional corporate office jobs. 
+
+https://github.com/abhijit-23blaze/SIH23Komet​

@@ -1,0 +1,46 @@
+KOMET meeting log:
+
+meeting-1 21sep (10:00 pm 221)
+ (start)
+ basic idea brain storming and discussion
+ collected info abt the competition and explored various problem statements
+ shortlisted 5-4 ideas
+ (end)
+
+meeting-2 22sep (10:00 pm 221)
+ (start)
+ idea finalized
+ basic skeleton visualized
+ basic skeleton finalized
+ brainstorming on features
+ tasks divided:
+    1)git contributions 
+    2)heat map image(photoshop/canva)
+    3)profile image(figma)
+    4)planing page concept/image
+    5) 1 trip card design
+    6)home page tab to be coded
+ (end)
+
+meeting-3 [proposed] 23sep (1:30 pm 221)
+    satus feedback on task
+    rearrangement (if any)
+    reorganise and continue
+
+meeting-4 [proposed] 23sep (8:00 pm 221)
+    app basic layout completion
+    other pages integration 
+    presentaion disussion
+ 
+
+
+
+
+
+
+
+
+
+
+
+
